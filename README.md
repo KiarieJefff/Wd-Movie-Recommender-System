@@ -4,17 +4,25 @@ A modern web application built with Next.js that provides personalized movie rec
 
 ## Screenshots
 
-Home Page
-![Home Page](Movie-Recommender-System/Images/Screenshot%202026-04-23%20122418.png)
+#  Home Page
 
-Movie Details Page
-![Movie Details Page](Movie-Recommender-System/Images/Screenshot%202026-04-23%20122446.png)
+![Home Page](Movie-Recommender-System/Images/Screenshot%202026-04-23%20122446.png)
 
-User Profile Page
-![User Profile Page](Movie-Recommender-System/Images/Screenshot%202026-04-23%20122559.png)
+# Movie Details Page
 
-Movie Search Page
-![Movie Search Page](Movie-Recommender-System/Images/Screenshot%202026-04-23%20122718.png)
+![Movie Details Page](Movie-Recommender-System/Images/Screenshot%202026-04-23%20122824.png)
+
+# User Profile Page
+
+![User Profile Page](Movie-Recommender-System/Images/Screenshot%202026-04-23%20123006.png)
+
+# Movie Wishlist Page
+
+![Movie Wishlist Page](Movie-Recommender-System/Images/Screenshot%202026-04-23%20123206.png)
+
+# Movie Recommendations Page
+
+![Movie Recommendations Page](Movie-Recommender-System/Images/Screenshot%202026-04-23%20123036.png)
 
 
 ## Features
