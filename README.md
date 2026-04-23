@@ -2,7 +2,19 @@
 
 A modern web application built with Next.js that provides personalized movie recommendations using Firebase authentication and real-time data.
 
-## 🚀 Features
+## � Screenshots
+
+<div align="center">
+  <img src="Movie-Recommender-System/Images/Screenshot 2026-04-23 122418.png" alt="Homepage" width="300"/>
+  <img src="Movie-Recommender-System/Images/Screenshot 2026-04-23 122446.png" alt="Movie Details" width="300"/>
+</div>
+
+<div align="center">
+  <img src="Movie-Recommender-System/Images/Screenshot 2026-04-23 122559.png" alt="User Profile" width="300"/>
+  <img src="Movie-Recommender-System/Images/Screenshot 2026-04-23 122718.png" alt="Movie Search" width="300"/>
+</div>
+
+## �🚀 Features
 
 - **User Authentication**: Secure login/signup with Firebase
 - **Movie Discovery**: Browse and search through extensive movie database
